@@ -131,6 +131,7 @@ submit the Contributor License Agreement before sending any pull requests (PRs).
 Of course, if you're new to the project, it's usually best to discuss any
 proposals and reach consensus before sending your first PR.
 
+
 ## License
 
 The OR-Tools software suite is licensed under the terms of the Apache License 2.0.
